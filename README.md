@@ -2,28 +2,28 @@
 
 A living, structured reference for understanding the Our Wave community — its mission, values, practices, and norms. This guide is designed to be consumed by both humans and LLMs so that anyone interacting with the Our Wave community can do so with context and care.
 
-**Website:** [community.ourwave.org](https://community.ourwave.org)
-**Organization:** [ourwave.org](https://www.ourwave.org)
+**Website:** [community.ourwave.org](https://community.ourwave.org)<br>
+**Organization:** [ourwave.org](https://www.ourwave.org)<br>
 **Last Updated:** 2026-06-24
 
 ## About Our Wave
 
 [Our Wave](https://www.ourwave.org) is a 501(c)(3) nonprofit that operates a safe, anonymous social media platform for survivors of sexual harm, child abuse, and domestic violence. Founded on the principle of being designed by survivors, for survivors, Our Wave provides a space where people can heal, share their experiences, and connect with a supportive community.
 
-Our Wave serves 555,243+ community users across 79+ countries.
+Our Wave serves 555,331+ community users across 79+ countries.
 
 ## Platform Statistics
 
 | Metric | Count |
 |--------|-------|
-| Community Users | 555,243+ |
+| Community Users | 555,331+ |
 | Survivor Stories | 1,845+ |
 | Messages of Hope | 1,719+ |
 | Expert Answers | 813+ |
 | Resource Referrals | 268,961+ |
 | Countries Reached | 79+ |
-| U.S. States / Territories Reached | 51 |
-| Content Views | 1,815,829+ |
+| U.S. States / Territories Reached | 51+ |
+| Content Views | 1,816,292+ |
 
 ## What Our Wave Does
 
