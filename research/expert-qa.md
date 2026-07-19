@@ -1,8 +1,8 @@
 # Our Wave — Expert Q&A Collection
 
-**Last Updated:** 2026-07-12<br>
+**Last Updated:** 2026-07-19<br>
 **Full Archive:** [community.ourwave.org/learn](https://community.ourwave.org/learn)<br>
-**Total Q&As:** 826
+**Total Q&As:** 828
 
 ## About This Collection
 
@@ -11,6 +11,32 @@ These questions were submitted by survivors of sexual harm, child abuse, and dom
 ---
 
 ## Questions & Answers
+
+**Link:** [View on Our Wave](https://community.ourwave.org/answer/it-happened-to-me-when-i-was-thirteen-but-i-always-wondered-if-in-the-end-after-much-insistence-i-told-my-boyfriend-who-was-a-year-older-than-me-that-i-was-going-to-have-sex-with-him-and-during-the-ac-950)
+
+**Question:** It happened to me when I was thirteen, but I always wondered, if in the end, after much insistence, I told my boyfriend, who was a year older than me, that I was going to have sex with him, and during the act I just wanted to leave and cry, could that be considered abuse?
+
+**Answer:** <p>Thank you for trusting us with this. Looking back at your thirteen-year-old self and still critically thinking about it after all this time tells me some part of you already knows something wasn't right.</p>
+<p>Real consent has to be freely given, not worn down out of someone. When a person keeps insisting after you've already shown hesitation, they're not waiting for you to genuinely want something, they're waiting for your resistance to run out. Many people use the word coercion for that pattern, getting a yes through repeated pressure rather than real willingness. It's still coercion when it happens quietly, and still coercion when it comes from someone close to your own age.</p>
+<p>It sounds like your body knew what your words couldn't fully say yet. Wanting to leave, wanting to cry...that's your nervous system (the part of you that tracks safety and danger) sending as clear a signal as a body can send. The mind and the body don't always arrive at the same truth at the same time, so going through with it after so much insisting doesn't mean you wanted it. It means stopping didn't feel like an option you had in that moment.</p>
+<p>You were thirteen, and he was fourteen. That doesn't erase what you felt, but it matters. At that age, the brain is still building the parts responsible for weighing risk and understanding the full weight of a decision like this one, for both of you. That's not an excuse for the impact on you, it's context for why what happened between two young teenagers and what happens when an adult does the same thing to a child aren't the same story, even though the harm to the person on the receiving end is real either way.</p>
+<p>You don't need a specific word to make what you felt valid. Wanting to leave and wanting to cry were not overreactions, and a yes that comes from exhaustion was not a decision made freely.</p>
+<p>If this is still sitting heavy, a therapist who works with sexual trauma in adolescents can help you carry it differently, and approaches like <a href="https://www.emdr.com/what-is-emdr/">EMDR</a> (a method that helps the brain reprocess painful memories so they lose their charge) or <a href="https://traumahealing.org/se-101/">Somatic Experiencing</a> (a body-based approach for releasing trauma held physically) have strong evidence for exactly this kind of harm. <a href="https://rainn.org/help-and-healing/hotline/">RAINN</a> also offers free, confidential support at rainn.org or 1-800-656-4673 if a therapist feels out of reach right now. You don't have to walk in with a verdict already decided. You can bring exactly what you brought here. Thank you again for reaching out.</p>
+
+---
+
+**Link:** [View on Our Wave](https://community.ourwave.org/answer/for-context-this-happened-about-five-years-ago-it-was-our-first-time-having-intercourse-although-we-had-been-physically-intimate-before-throughout-our-relationship-of-about-two-years-i-often-felt-my-d-949)
+
+**Question:** About five years ago, my boyfriend of two years and I had sex for the first time. Throughout our relationship I often felt like my needs and concerns were ignored. I was usually the one focused on pleasing him, and when I asked for something in return, I was dismissed. That night, I told him beforehand I wanted to keep my shirt on, and he agreed to keep his on too, but he didn't honor that once we started. I was in a lot of pain, my hymen tore, and I began bleeding heavily. I stopped and ran to the bathroom, and when I came back he refused to help me clean up the blood, so I cleaned his room and the hallway myself. Afterward he asked if I enjoyed it, then asked me to give him oral sex. I said no multiple times because I was exhausted and still bleeding, but he kept asking, saying it would help him sleep, and I eventually gave in. When I offered to leave so he could rest, he asked me to take his blood-stained sheets home to wash instead, so I carried them back to my dorm around 4 a.m. and washed them before going to bed. The next day he said he wished we hadn't had sex, and later admitted he was more worried about me accusing him of rape, and about his mother and girlfriend finding out, than about how I was doing. We never talked about it again and haven't spoken in five years. I'm only now starting to question what happened, and I go back and forth on whether to call it rape. I wouldn't pursue anything legally, I just want to understand my own experience.
+
+**Answer:** <p>Thank you so much for trusting us with this and I am so sorry you had to go through something so painful. You are not too late to question this. Minds often wait until there is enough distance and safety to look at something clearly and five years is not too long to start that work.</p>
+<p>Consent has to hold through every moment of an encounter, not just at the start. You asked to keep your shirt on, and he agreed to match it, then ignored that once things began. That override matters on its own, separate from everything that followed. What happened next, the pain, the bleeding, cleaning up his room alone, carrying his soiled sheets across campus at four in the morning while you were still bleeding yourself, reflects a level of indifference to your body and your pain that no one should have to absorb, especially not from someone who was supposed to care about you.</p>
+<p>The oral sex afterward deserves its own tenderness too. You said no, more than once. He kept asking, framing it around his own comfort, until you were too depleted to keep refusing. Researchers draw a real distinction between consent and sexual compliance, where someone goes along with something not out of desire but because they've run out of the capacity to keep resisting. What you're describing sounds much closer to that second experience, and compliance born of exhaustion was never a fair thing to ask of you.</p>
+<p>It also matters that you'd spent two years feeling like your needs came second, focused on pleasing him while your own asks were brushed aside. Carrying that into the relationship makes it harder to notice harm in the moment, because you'd already been taught, in small ways, that your needs were less important than his. None of that is your fault. It's context, not blame.</p>
+<p>On the word rape, you're the only one who gets to decide if it belongs to your story, and there's no timeline you're supposed to meet. What is worth sitting with gently is that he told you he was afraid you'd accuse him of it. People don't usually carry that fear about something they believe was mutual and okay.</p>
+<p>If you're looking for somewhere to start, try writing out exactly what you shared here, then reading it back as though a close friend had written it to you. Notice what you'd want to say to her. My guess is it wouldn't be that she was overreacting. It would be that she deserved so much better than what she got that night. You deserved better too. If you would like to talk this out with a counselor, <a href="https://rainn.org/help-and-healing/hotline/">the RAINN hotline </a>might be a great next step. You are not alone and thank you for trusting us with this.&nbsp;</p>
+
+---
 
 **Link:** [View on Our Wave](https://community.ourwave.org/answer/remembered-the-time-my-friend-we-were-both-10-and-theyve-previously-physically-and-emotionally-abused-me-unexpectedly-and-with-no-consent-kissed-me-on-the-cheek-it-only-occurred-once-and-never-again-a-947)
 
