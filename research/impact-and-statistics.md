@@ -1,20 +1,20 @@
 # Our Wave Community — Impact & Statistics
 
-**Last Updated:** 2026-07-19<br>
+**Last Updated:** 2026-07-26<br>
 **Source:** [community.ourwave.org](https://community.ourwave.org)
 
 ## Platform Reach
 
 | Metric | Count |
 |--------|-------|
-| Community Users | 563,009+ |
-| Survivor Stories | 1,872+ |
-| Messages of Hope | 1,740+ |
+| Community Users | 550,732+ |
+| Survivor Stories | 1,877+ |
+| Messages of Hope | 1,743+ |
 | Expert Answers | 828+ |
-| Resource Referrals | 269,029+ |
+| Resource Referrals | 269,059+ |
 | Countries Reached | 79+ |
 | U.S. States / Territories Reached | 51+ |
-| Content Views | 1,861,207+ |
+| Content Views | 1,114,480+ |
 
 ## About the Data
 
