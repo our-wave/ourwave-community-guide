@@ -1,6 +1,6 @@
 # Our Wave — Resources for Survivors
 
-**Last Updated:** 2026-07-26<br>
+**Last Updated:** 2026-08-02<br>
 **Full Directory:** [community.ourwave.org/resources](https://community.ourwave.org/resources)<br>
 **Total Resources:** 101
 
@@ -932,14 +932,6 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 
 ---
 
-### Aimee Says
-
-**Link:** [View on Our Wave](https://community.ourwave.org/resource/aimee-says)<br>
-**Description:** Aimee Says is an AI-powered support assistant designed for survivors of domestic, post-separation, narcissistic, and emotional abuse, offering confidential chat, evidence documentation, and legal-prep tools. It helps users recognize abuse patterns, document incidents, create safety plans, and prepare for legal proceedings—available 24/7 with no registration required.<br>
-**Virtual Services:** Yes<br>
-
----
-
 ### Line 144 Argentina
 
 **Link:** [View on Our Wave](https://community.ourwave.org/resource/line-144-argentina)<br>
@@ -947,6 +939,14 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Virtual Services:** Yes<br>
 **Countries Served:** Argentina<br>
 **Phone:** 144<br>
+
+---
+
+### Aimee Says
+
+**Link:** [View on Our Wave](https://community.ourwave.org/resource/aimee-says)<br>
+**Description:** Aimee Says is an AI-powered support assistant designed for survivors of domestic, post-separation, narcissistic, and emotional abuse, offering confidential chat, evidence documentation, and legal-prep tools. It helps users recognize abuse patterns, document incidents, create safety plans, and prepare for legal proceedings—available 24/7 with no registration required.<br>
+**Virtual Services:** Yes<br>
 
 ---
 
