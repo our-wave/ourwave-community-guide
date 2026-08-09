@@ -1,8 +1,8 @@
 # Our Wave — Expert Q&A Collection
 
-**Last Updated:** 2026-08-02<br>
+**Last Updated:** 2026-08-09<br>
 **Full Archive:** [community.ourwave.org/learn](https://community.ourwave.org/learn)<br>
-**Total Q&As:** 828
+**Total Q&As:** 834
 
 ## About This Collection
 
@@ -11,6 +11,105 @@ These questions were submitted by survivors of sexual harm, child abuse, and dom
 ---
 
 ## Questions & Answers
+
+**Link:** [View on Our Wave](https://community.ourwave.org/answer/i-heard-that-hyper-sexuality-was-the-most-common-response-after-the-sexual-abuse-i-was-facing-hypersexuality-after-all-that-and-maybe-i-still-am-the-question-is-should-i-feel-guilty-for-experiencing-h-956)
+
+**Question:** After being sexually abused, I noticed I became hypersexual. I'm still dealing with that, and I feel guilty about it. My question is: should I feel guilty for experiencing hypersexuality with someone I like, including having intercourse with them without a formal relationship? I'm from India, and I know that carries a different weight culturally, and that makes the guilt even heavier.
+
+Also, there's something else that weighs on me. Someone made a video of me while I was drunk. In the video, I'm saying things like 'put it in' and I'm moaning and touching them, but I don't actually remember doing any of that or agreeing to being filmed. I don't remember saying those things. Is it still rape if I was participating in the video even though I was too drunk to remember?
+
+**Answer:** <p>Thank you for trusting us with something this personal and this layered. The confusion, the self-doubt, the weight of what you saw in that video, all of that is real and it is a lot to process.&nbsp;</p>
+<p>Let me start with the question that matters most and deserves the most direct answer: Yes. What you described is still rape.</p>
+<p><a href="https://rainn.org/share-the-facts/consent-101-respect-boundaries-and-building-trust/">Consent </a>means your mind is aware, clear, and free to make a real choice. When someone is intoxicated to the point of having no memory of what happened, that ability is not just reduced. It is completely gone. The fact that you have no memory is itself evidence that you were not in a state where real consent was possible. What your body did during that experience, words spoken, sounds made, physical responses, none of that counts as consent. Your body can respond to touch on its own, the way your knee jerks when a doctor taps it, without your brain being present enough to make any decision. Any words you said may have come from a place of such deep impairment that you were essentially reacting to cues around you without any real awareness. This is something that is well understood and documented in trauma medicine. It does not mean you wanted what was happening. It means you were not present in any meaningful sense to want or not want anything.</p>
+<p>The fact that you do not remember saying those words, and yet you can see yourself saying them, is itself a sign of how impaired you were. Memory requires a level of consciousness. You were not conscious enough to form memories. That is incapacitation, meaning your ability to make decisions was completely taken away by how intoxicated you were. The person or people in that video had a responsibility to make sure you were capable of consenting. They did not do that. That responsibility was theirs, not yours.</p>
+<p>Researchers use the term freeze and fawn response to describe what happens when the body goes into survival mode during an assault. In that state, the body may comply, cooperate, or even speak, not because the person is choosing to, but because the nervous system is doing what it can to protect itself. Many people who experience sexual violence find that their bodies responded in ways that confuse them deeply afterward, and that confusion is one of the most isolating parts of processing what happened. You are not alone in this, and what your body did does not change what was done to you.</p>
+<p>But there is something more here that matters equally. Someone made a video of your assault. They documented your violation without your knowledge or consent. That is a separate crime. A violation layered on top of the violation. Your body and your suffering were turned into content. That video exists, and that fact, all by itself, is profoundly traumatizing. The shame of that does not belong to you. It belongs entirely to the person who made the choice to record it.</p>
+<p>If that video still exists, your first step is to find out where it is and what your options are for its removal. You may have legal remedies available to you. You deserve to know if you can take action.</p>
+<p>Now, about hypersexuality, which means a noticeable increase in sexual thoughts, feelings, or behavior, and whether you should feel guilty.</p>
+<p>You heard correctly that hypersexuality is a common response after sexual abuse. It is widely documented. After something is done to your body without your permission, the mind sometimes reaches for sexual experience on its own terms as a way of taking back a sense of control, seeking connection, or trying to process what happened. For some people, the nervous system gets stuck in a state of heightened activation after trauma, meaning it stays on high alert, and sexuality can become a way of managing overwhelming feelings, searching for closeness, or even finding proof that the body still belongs to you. None of that means something is wrong with you. It means your nervous system is doing something that many, many people experience.</p>
+<p>On the specific guilt you are asking about, having sex with someone you like without a defined relationship, you are allowed to pursue intimacy in whatever form feels meaningful and consensual to you. Two people choosing to be physical with each other, both clear-headed and willing, is not something to be ashamed of. What matters is whether the intimacy you are choosing feels like yours, whether it feels like something you are moving toward rather than something pulling you under. If it feels good and chosen and connected to someone you genuinely like, that is not something to feel guilty about.</p>
+<p>If guilt is present, it is worth sitting with where it is coming from. Sometimes it reflects what we were taught about sex and self-worth. Sometimes it is the leftover shame from what happened to us, shame that was never ours to carry in the first place. And if you find that hypersexuality sometimes leaves you feeling empty or more disconnected than connected, that is worth paying attention to, not as a moral failing, and as information about what you might need.</p>
+<p>A trauma-informed therapist, meaning a therapist who understands how trauma affects the mind and body, can help you understand what your nervous system is seeking and find ways to meet those needs that feel grounding rather than destabilizing.</p>
+<p>The responsibility for what was done to you belongs entirely to the people who did it. You get to come back to that truth as many times as you need to. Thank you so much for trusting us with this. You did not deserve what you experienced. We are here for you.</p>
+
+---
+
+**Link:** [View on Our Wave](https://community.ourwave.org/answer/cocsa-includes-coercion-or-manipulation-however-it-is-unclear-what-coercion-can-look-like-in-these-situations-what-behaviours-might-count-as-coercion-between-children-particularly-in-younger-preadoles-955)
+
+**Question:** COCSA includes coercion or manipulation, however it is unclear what coercion can look like in these situations. What behaviours might count as coercion between children, particularly in younger preadolescent children?
+
+**Answer:** <p>Thank you for asking this question.&nbsp;<a href="https://www.plannedparenthood.org/blog/sexual-boundaries-how-to-spot-sexual-coercion">Coercion</a>, at its core, means that one person's ability to freely say no has been taken away or worn down. It does not require a raised voice or a physical threat. Between adults, we often picture coercion as open threats or physical force. Between children, and especially younger children who have not yet reached their teenage years, coercion tends to look quieter and more relational. It can be subtle enough that neither child has the words to name it at the time, and yet its effects are just as real.</p>
+<p>One of the most common and least recognized forms of coercion between children is persistent asking. When a child asks once, is told no or met with hesitation, and then keeps asking anyway, they are wearing down the other child's resistance. Eventually, going along feels like the only way to make the discomfort stop. The child who says yes in that situation has not made a free choice. They have simply run out of the energy to hold their boundary.</p>
+<p>Emotional leverage appears frequently as well. This can look like a child saying "if you don't do this, I won't be your friend anymore," or "I thought you trusted me," or "you're being such a baby." For young children whose social world often centers around one or two close friendships, the threat of losing that relationship is genuinely frightening. It creates a situation where the child feels they must choose between feeling safe in their body and feeling safe in their friendships. That is not a free choice.</p>
+<p>Guilt and obligation can work in a similar way. A child might be told "I did something nice for you, so now you have to do this," or "you already said yes before, you can't say no now." These framings take advantage of a child's growing sense of fairness and turn it into a feeling of debt, one that overrides their instinct to refuse. Bribery works in a related way. Offering a child candy, gifts, attention, or social inclusion in exchange for sexual contact is a form of coercion, because it creates a kind of pressure a young child is not equipped to fully understand or resist. A child who was offered something to participate was manipulated, not complicit.</p>
+<p>Coercion can also look like framing sexual activity as normal or expected. A child might say "this is what friends do," or "everyone does this," or "I saw this on TV, it's normal." For younger children who are still learning what is and is not appropriate, these statements can be genuinely disorienting. They may not know that what is being described is not, in fact, what everyone does. That confusion is part of how coercion works, by making the child doubt their own instincts.</p>
+<p>Secrecy is worth naming on its own. When one child insists that what is happening must stay secret, particularly by framing that secrecy as necessary ("we'll both get in trouble" or "no one will believe you"), this is a coercive tactic. It isolates the child being targeted, deepens their sense of shame, and makes it harder for them to ask for help. Secrecy in this context is not a neutral request. It is a way of maintaining control.</p>
+<p>Power differences also matter significantly. Power between children does not come only from age, though age and developmental maturity do matter. It can also come from size, social status within a peer group or family, a sense of authority, or emotional influence over a younger or more vulnerable child. When one child uses any of these advantages to pressure another into sexual contact, that pressure is coercive even if nothing threatening was said out loud. Physical positioning can function similarly. If a child places themselves between another child and the door, or creates a situation where the other child feels unable to leave without a confrontation, that is a form of pressure even if no one is being held down.</p>
+<p>Coercion does not require that the child who experienced it said no out loud. Many children freeze, go quiet, look away, or simply stop responding when they feel overwhelmed. These are the body's natural responses to threat, not signs of agreement. A child who goes still is not consenting. A child who does not fight back is not consenting. A child who eventually goes along after sustained pressure is not consenting freely.</p>
+<p>This matters because children who experienced coercion in these quieter forms often spend years wondering whether what happened to them was real or serious. They may hold themselves to a harsh standard, feeling that they did not refuse loudly or clearly enough. The absence of a dramatic refusal does not mean the absence of harm. It is also worth holding the fact that in many of these situations, the child who caused harm may have been acting out of their own confusion, their own exposure to abuse, or their own distress. That context is important.</p>
+<p>Thank you for asking this. We hope this helps!</p>
+
+---
+
+**Link:** [View on Our Wave](https://community.ourwave.org/answer/when-i-was-nine-a-thirteen-year-old-boy-was-harassing-me-demanding-i-send-him-photos-and-videos-of-my-thighs-my-buttocks-and-my-private-parts-he-even-went-so-far-as-to-ask-me-to-get-completely-naked-o-954)
+
+**Question:** When I was nine, a thirteen-year-old boy was harassing me, demanding I send him photos and videos of my thighs, my buttocks, and my private parts. He even went so far as to ask me to get completely naked on video calls. Honestly, I didn't want to do it at all, but at the time, he was my only friend, and I really liked him. So I did it. It wasn't until recently that I realized that this could have been abuse, right?
+
+**Answer:** <p>Thank you for bringing this here, and for being willing to question something you've held onto for so long. I want to acknowledge that naming this (especially in a cultural context where talking about sexuality and sexual harm can carry deep shame) takes particular courage.</p>
+<p>To answer your question directly: yes, what happened to you could certainly have been considered <a href="https://www.nsvrc.org/saam-2022-learn/whatisonlinesexualabuse/">abuse</a>. Only you can label your experiences, however, so let me share some information worth considering.</p>
+<p>The four-year age gap between nine and thirteen is significant. At nine, you were still in early childhood. At thirteen, he had much more understanding of sexuality, more social awareness, more power in that relationship. He was old enough to understand what he was asking for and how to use your loneliness and your affection for him to wear down your resistance. That pattern (using closeness and the fear of losing a connection to get someone to do something sexual) is deeply harmful, and it's something that happens between young people too, not just adults.</p>
+<p>It is also worth noting that he was also a minor and may have been acting from his own exposure or confusion. That creates real complexity, and you can acknowledge that without it erasing what happened to you. Both things are true at once. He may not have fully understood the weight of what he was doing, and what happened to you was still real, still harmful, still not your fault.</p>
+<p>What he asked you to create (images of a child) carries legal significance precisely because you were a child being pressured by someone older. The fact that you created them doesn't make you responsible.&nbsp;</p>
+<p>Now that you're sitting with this differently, you may feel a rush of emotion...anger, grief, confusion, or shame that suddenly feels heavier now that you're naming it. That's normal. It doesn't mean you made a mistake by questioning the story you've been telling. It means you're finally letting yourself feel what happened. Give yourself space for that.</p>
+<p>You deserve support processing this without carrying the shame alone. If you'd like to speak with a counselor, <a href="https://rainn.org/help-and-healing/hotline/">RAINN</a> offers free, confidential support in English at 1-800-656-4673 or rainn.org. In Mexico, CIAM (Centro Integral de Atenci&oacute;n a Mujeres) and local sexual health organizations can provide confidential support.&nbsp;</p>
+<p>Start with whoever feels safest...a counselor, a trusted person in your life, or a therapist if you have access. You don't need to have it all figured out first. You can bring exactly the uncertainty you brought here.</p>
+
+---
+
+**Link:** [View on Our Wave](https://community.ourwave.org/answer/a-few-years-ago-i-had-an-unpleasant-experience-i-have-a-cousin-who-is-a-year-younger-than-me-at-the-time-we-were-both-minors-when-this-started-im-160-meters-tall-and-hes-180-meters-a-lot-of-things-are-953)
+
+**Question:** My cousin, a year younger than me, started touching me in sexual ways when we were both minors. This happened years ago, but I'm still trying to make sense of it. At first it was hugs that felt weird, but it escalated. He'd press himself against me searching for friction, he'd get into my bed at night with an erection against my body, and eventually he touched my butt and breasts and tried to get his hand under my shirt. I put boundaries up a few times but I wasn't firm about it because I didn't want things to be awkward between us, especially since we were on family vacation and still around each other all the time. I still see him at family gatherings now, and I still don't know how to think about what happened between us because we were both minors. Was something wrong with me? How do I categorize this?
+
+**Answer:** <p>Thank you for sharing this difficult experience with us. It sounds like you've been carrying this quietly for a long time, and the fact that you're reaching out now, still trying to make sense of it, tells me your body knew something wasn't right. That knowing is worth trusting.</p>
+<p>What you're describing sounds like it has a pattern to it. It started with contact that felt strange but seemed small. Then it grew, consistently. It moved into increasingly intimate touching, his body pressing against yours seeking friction, him entering your bed without invitation and refusing to leave when you asked, and eventually groping your breasts and reaching under your clothes. Each step was slightly bigger than the one before. That escalation is significant because it makes each new boundary harder to name or stop.&nbsp;</p>
+<p>It sounds like you tried to set limits on him, even though you mentioned you weren't firm because you didn't want things to feel uncomfortable between you. That's not a failure on your part. When someone is family and when you're in a shared space like a vacation, saying something forceful might feel risky in ways that go beyond the immediate moment. Young people in family situations are often navigating an impossible position where a clear "no" feels socially costly or disruptive. Trying to manage things carefully, redirecting, setting quieter limits, getting him out of your bed when you could...those were all real attempts to protect yourself under pressure.</p>
+<p>Some people use the term <a href="https://www.ourwave.org/en/post/understanding-cocsa-and-breaking-cycles-of-childhood-harm">COCSA</a>, or child-on-child sexual abuse, to describe experiences like yours. It's more common than most people realize. What makes something harmful isn't whether you have a perfect label for it. It's whether it was wanted, whether limits were respected, whether you felt safe. None of those were true in what you described.</p>
+<p>You also deserve to know that young people who engage in this kind of behavior often have their own histories of exposure to inappropriate material or even harm themselves. That doesn't excuse what he did to you. It doesn't erase your experience. It just sometimes explains where this kind of harm comes from.</p>
+<p>How you name what happened is entirely yours to decide, in your own time. What matters right now is recognizing you didn't cause this, you didn't invite it, and it left a mark. If you're ready, talking with a therapist trained in trauma could help you process what this means to you, especially since you still see him at family gatherings. The weight of that is real, and you don't have to carry it alone. Thank you for reaching out to us.&nbsp;</p>
+
+---
+
+**Link:** [View on Our Wave](https://community.ourwave.org/answer/about-a-year-ago-i-began-to-realise-a-relationship-i-was-in-when-i-was-in-my-late-teens-and-early-twenties-involved-alot-of-boundary-violation-from-my-then-boyfriend-he-regularly-guilt-tripped-me-into-952)
+
+**Question:** I was in a relationship in my late teens and early twenties where my boyfriend regularly guilt-tripped me into having sex or sexual acts. At the time I thought this was normal, but looking back now, 20 years later, I'm not sure it was. The confusing part is that sometimes I fully consented and sometimes I didn't — and I still can't get clear on what was actually okay and what wasn't. I carry a lot of shame about the times I did consent, or even times I enjoyed it. I think this has shaped how I approach relationships and sex ever since. I feel uncomfortable and ashamed when it comes to sexuality, and I wonder if my difficulty with boundaries in later relationships comes from this. Even with therapy, I'm struggling to get clarity. How do I move forward?
+
+**Answer:** <p>Thank you for trusting us with this. Twenty years of quietly carrying something that never quite made sense, and now beginning to find words for it, is not a small thing.&nbsp;</p>
+<p>Being regularly guilt-tripped into sex or sexual acts is an act of <a href="https://www.domesticshelters.org/articles/identifying-abuse/what-is-sexual-coercion">coercion</a>. Coercion works through emotional pressure, making you feel that saying no will cost you something, wearing down your resistance until a yes finally comes. That kind of pressure doesn't produce genuine consent, even when the word yes is eventually said. Real consent means feeling free to say no without facing emotional consequences. Guilt-tripping removes that freedom.</p>
+<p>The fact that you sometimes fully consented does not cancel out the times you didn't. Both things can be true at the same time. A relationship is not either all harm or all fine. Genuine connection and harm can exist in the same relationship, sometimes in the same moment. The coerced moments don't erase the times things felt right, and the times things felt right don't make the coercion okay. Holding both truths at once, however, can be very difficult.</p>
+<p>Your confusion makes complete sense. When harm is woven into something as intimate as a relationship, when it comes from someone who was supposed to care for you, your mind has difficulty sorting it into clean categories. You were young, still forming your understanding of what relationships should feel like. Your confusion is not a sign you're overreacting. It's a sign you experienced something genuinely complicated.</p>
+<p>What you're experiencing now (e.g. the difficulty with boundaries, the shame around sex, the relationships that haven't quite worked) these are not character flaws or signs that something is broken in you. When you learn early on that your discomfort doesn't matter, that saying no has a cost, that sex is something you owe rather than something you choose, those lessons settle into your body and nervous system. They shape what feels normal, what feels safe, what you expect from intimacy. This is not your fault and it's not permanent.</p>
+<p>Clarity often doesn't arrive all at once. It comes in pieces, sometimes with grief alongside it. Grief for what you deserved and didn't get. That grief is real and belongs here.</p>
+<p>Two specific therapy approaches may be useful as you navigate this going forward and I would encourage you to talk to your current therapist about them. <a href="https://www.simplepractice.com/blog/emdr-therapy/?g_campaignid=19638552931&amp;g_keywordid=&amp;g_acctid=419-488-5451&amp;g_adid=&amp;g_network=x&amp;g_campaign=PMAX+%7C+Features+%7C+All+In+One+%7C+Exploration&amp;g_adtype=none&amp;g_adgroupid=&amp;g_keyword=&amp;utm_source=google&amp;utm_medium=cpc&amp;network=x&amp;utm_campaign=PMAX_Features_EHR&amp;utm_term=&amp;device=c&amp;matchtype=&amp;gad_source=1&amp;gad_campaignid=19638566590&amp;gbraid=0AAAAADqOPoPoHb4WSgg3XiGPvrhUxqLD9&amp;gclid=Cj0KCQjw-MDTBhCgARIsAKAkdlQTdMhyBRhxXCB52UI33zd0tH8zR07Z3lT1M1iYnrLbObOINkzj1NIaAmCFEALw_wcB">EMDR</a> (Eye Movement Desensitization and Reprocessing) helps your brain reprocess stored painful memories so they lose their emotional charge. <a href="https://www.simplepractice.com/blog/what-is-somatic-experiencing/?g_campaignid=19638552931&amp;g_keywordid=&amp;g_acctid=419-488-5451&amp;g_adid=&amp;g_network=x&amp;g_campaign=PMAX+%7C+Features+%7C+All+In+One+%7C+Exploration&amp;g_adtype=none&amp;g_adgroupid=&amp;g_keyword=&amp;utm_source=google&amp;utm_medium=cpc&amp;network=x&amp;utm_campaign=PMAX_Features_EHR&amp;utm_term=&amp;device=c&amp;matchtype=&amp;gad_source=1&amp;gad_campaignid=19638566590&amp;gbraid=0AAAAADqOPoPoHb4WSgg3XiGPvrhUxqLD9&amp;gclid=Cj0KCQjw-MDTBhCgARIsAKAkdlSGTQefJMKlfvYwnodbT4DR0-5TyfI37cYolEloNiH-ATt6xZa-BNsaAlFlEALw_wcB">Somatic Experiencing</a> works with what your body holds rather than only what your mind can articulate. You might ask your current therapist if they have training in trauma-focused methods, or consider a referral to someone who specializes in relational trauma and sexual coercion.&nbsp;</p>
+<p>Rebuilding trust in your own boundaries means learning to recognize your own signals again. A boundary isn't selfish or aggressive. It's information about what works for you, what feels safe. Start small. Notice what feels right in your body and what creates hesitation. Pay attention to moments where you feel a small "I don't really want to" and practice trusting that signal in low-stakes situations first. When you're with a partner, check in with yourself before you decide. Not everyone will like all your boundaries, and that's information too.</p>
+<p>I hope this helps even a little. You are not alone and naming what happened is an important step in your healing journey.&nbsp;</p>
+
+---
+
+**Link:** [View on Our Wave](https://community.ourwave.org/answer/a-few-months-back-i-was-kissed-by-a-sober-man-i-didnt-know-while-i-was-severely-drunk-upon-sobering-up-i-felt-disgusting-and-still-do-months-later-because-i-never-would-have-done-that-if-i-wasnt-intox-951)
+
+**Question:** A few months back I was kissed by a sober man I didn’t know while I was severely drunk. Upon sobering up I felt disgusting and still do months later, because I never would have done that if I wasn’t intoxicated. 
+
+He asked to kiss me and I said yes, which is what confuses me so much. He knew I was drunk but I can’t help but feel like it was my fault because I agreed. He even helped me walk and got me water because I couldn’t do it myself. I never say no to anything while drunk, but it’s not like he knew that. 
+
+Was it still consensual? Why do I feel so guilty?
+
+**Answer:** <p>Thank you so much for trusting us with this. The confusion you're describing (feeling disgusted even though you said yes) is quite a disorienting place to find yourself. Consent requires three things: 1) the ability to think clearly, 2) the ability to understand what you're agreeing to, and 3) the ability to feel genuinely free to say no. Severe intoxication takes all three away. A yes that comes out of a severely drunk mouth is not the same as a real, considered agreement. When you're that drunk, you're not you. Not the version of you who gets to decide.</p>
+<p>It sounds like he understood that you were impaired, so much so that you couldn't walk or get water alone. Despite seeing that, he asked to kiss you anyway. That matters. He had the capacity to pause and ask himself whether this was a good idea. It sounds like you didn't have that capacity in that state. Alcohol suppresses the parts of your brain responsible for judgment, self-protection, and weighing risk. When you said yes, that wasn't your full self speaking. It was someone else's version of you, temporarily.</p>
+<p>The guilt you're carrying is real, and I understand why it's there. When something doesn't feel right, we reach for self-blame because blame feels like control. If it was your fault, maybe you could have prevented it. That logic is painful and completely human, and it's also not true. The version of you that would never have agreed while sober (the one who's been feeling disgusted) that's your real answer. Your disgust is not a flaw. It's your deepest self telling you that something happened that didn't match who you are.</p>
+<p>What I might suggest you do is in a quiet moment, write out privately what you would have wanted that night if you'd been sober. What would you have said? How would you have felt? Let that version of you speak. That reflection can help reconnect you with your own clarity and your own preferences. It can help you understand what your body and heart have been trying to tell you.</p>
+<p>Only you can label your experiences and you don't need to have all the words right now. What you know is enough: you wouldn't have chosen it sober, and something about it doesn't sit right with who you are. That's the truth you're living with. And that truth is worth taking seriously. Thank you so much for trusting us with this. You are not alone.</p>
+
+---
 
 **Link:** [View on Our Wave](https://community.ourwave.org/answer/it-happened-to-me-when-i-was-thirteen-but-i-always-wondered-if-in-the-end-after-much-insistence-i-told-my-boyfriend-who-was-a-year-older-than-me-that-i-was-going-to-have-sex-with-him-and-during-the-ac-950)
 
@@ -11436,23 +11535,19 @@ My daughter was raped by her therapist and became pregnant. I am her Mother, how
 
 ---
 
-**Link:** [View on Our Wave](https://community.ourwave.org/answer/my-trauma-feels-insignificant-compared-to-what-others-are-going-through-how-do-i-manage-that-20)
+**Link:** [View on Our Wave](https://community.ourwave.org/answer/how-to-deal-with-people-with-trauma-who-cross-your-boundaries-because-of-it-18)
 
-**Question:** There is so much going on in the world. My trauma feels insignificant compared to what others are going through. How do I manage that?
+**Question:** How to deal with people with trauma who cross your boundaries because of it?
 
-**Answer:** There is something about our current state that can make any personal trauma feel unworthy. How can I feel this pain when I have a roof over my head? When I have a job? When I am healthy? While this reframing and acknowledgement of the intensity of others’ suffering is an important empathetic response, it also can harm our own processing of the events that impact us.
+**Answer:** When a loved one is going through a difficult time in their healing journey, they may look to you for support or encouragement.  However, it is important to remember that your own mental health is important too. Trauma is extremely painful and sometimes no matter what you do as a bystander, it can feel like not enough. At times like these, you may need to set boundaries to ensure that your needs are addressed as well.
 
-It is easy to be hard on yourself when you are struggling, particularly if you are not healing as fast as you would like, or if you constantly feel like you are being setback. Remember, trauma not only consists of events, but also how you experience these events and the ultimate impact it has on you based on your current supports and prior history. It is not fair to yourself to be constantly comparing the situations you have endured to others. Be gentle with yourself. Every person's trauma is unique and deserves attention.
+Setting boundaries can be difficult, especially if you have not had much practice. First, think about what your needs and limits are. This can include the level of financial, emotional, and physical help you are willing to provide. When you are ready, share with your loved one in a calm situation, rather than in the heat of the moment. Use “I” statements to show your perspective. After you have communicated these boundaries, it is important to follow through and re-emphasize them when needed. Resist feelings of guilt. This does not mean you do not care about them.
 
-You may also find yourself questioning the validity of your trauma when you hear about the trauma stories of others either through the Our Wave site, or other platforms and mediums where survivors share their experiences. Resist the voice inside of you telling yourself that your experience “might not count” or “wasn’t that bad.” These thoughts can minimize your trauma and cause detachment from complicated emotions.
+You can also help by suggesting other means of support. Therapists or local crisis centers have experience working with people with trauma and are trained to help. You may also find these services helpful for your own processing. It is not uncommon for local crisis centers to  also offer services for loved ones of those who have experienced trauma.
 
-While minimizing your trauma may be protective at first, it can interfere with you getting the help that you need to heal. It is important to remember that if something feels bad, it is bad. Everyone deserves help when they are struggling.
+Just because someone has experienced trauma, does not mean that they have a right to take their anger out on you. If you feel that you are being verbally, physically, or sexually harmed, set a limit if it feels safe, remove yourself from the situation, and seek help if you need it.
 
-It’s easy to feel guilty for feeling anything anymore, when the world is so painful for so many.  For those who are silently struggling with your own trauma, know that your feelings are valid. Name it. Claim it. It is not small because it is not the trauma of others.
-
-No matter what else is appearing on news headlines or in your life, your trauma is valid. Celebrate the positive aspects of your life but allow yourself space to acknowledge the negatives too. You are not alone, but your experience is important. You matter.
-
-Next week will be our last FAQ Friday. Thank you for joining in community with us.
+It can be difficult to help your friends if you run out of emotional or physical energy. Focusing on your own self-care is not selfish, it sometimes may be necessary. As the saying goes, put your mask on first...then offer assistance.
 
 ---
 
@@ -11472,19 +11567,23 @@ Sexting coercion can be a form of control or manipulation for an abuser. Being p
 
 ---
 
-**Link:** [View on Our Wave](https://community.ourwave.org/answer/how-to-deal-with-people-with-trauma-who-cross-your-boundaries-because-of-it-18)
+**Link:** [View on Our Wave](https://community.ourwave.org/answer/my-trauma-feels-insignificant-compared-to-what-others-are-going-through-how-do-i-manage-that-20)
 
-**Question:** How to deal with people with trauma who cross your boundaries because of it?
+**Question:** There is so much going on in the world. My trauma feels insignificant compared to what others are going through. How do I manage that?
 
-**Answer:** When a loved one is going through a difficult time in their healing journey, they may look to you for support or encouragement.  However, it is important to remember that your own mental health is important too. Trauma is extremely painful and sometimes no matter what you do as a bystander, it can feel like not enough. At times like these, you may need to set boundaries to ensure that your needs are addressed as well.
+**Answer:** There is something about our current state that can make any personal trauma feel unworthy. How can I feel this pain when I have a roof over my head? When I have a job? When I am healthy? While this reframing and acknowledgement of the intensity of others’ suffering is an important empathetic response, it also can harm our own processing of the events that impact us.
 
-Setting boundaries can be difficult, especially if you have not had much practice. First, think about what your needs and limits are. This can include the level of financial, emotional, and physical help you are willing to provide. When you are ready, share with your loved one in a calm situation, rather than in the heat of the moment. Use “I” statements to show your perspective. After you have communicated these boundaries, it is important to follow through and re-emphasize them when needed. Resist feelings of guilt. This does not mean you do not care about them.
+It is easy to be hard on yourself when you are struggling, particularly if you are not healing as fast as you would like, or if you constantly feel like you are being setback. Remember, trauma not only consists of events, but also how you experience these events and the ultimate impact it has on you based on your current supports and prior history. It is not fair to yourself to be constantly comparing the situations you have endured to others. Be gentle with yourself. Every person's trauma is unique and deserves attention.
 
-You can also help by suggesting other means of support. Therapists or local crisis centers have experience working with people with trauma and are trained to help. You may also find these services helpful for your own processing. It is not uncommon for local crisis centers to  also offer services for loved ones of those who have experienced trauma.
+You may also find yourself questioning the validity of your trauma when you hear about the trauma stories of others either through the Our Wave site, or other platforms and mediums where survivors share their experiences. Resist the voice inside of you telling yourself that your experience “might not count” or “wasn’t that bad.” These thoughts can minimize your trauma and cause detachment from complicated emotions.
 
-Just because someone has experienced trauma, does not mean that they have a right to take their anger out on you. If you feel that you are being verbally, physically, or sexually harmed, set a limit if it feels safe, remove yourself from the situation, and seek help if you need it.
+While minimizing your trauma may be protective at first, it can interfere with you getting the help that you need to heal. It is important to remember that if something feels bad, it is bad. Everyone deserves help when they are struggling.
 
-It can be difficult to help your friends if you run out of emotional or physical energy. Focusing on your own self-care is not selfish, it sometimes may be necessary. As the saying goes, put your mask on first...then offer assistance.
+It’s easy to feel guilty for feeling anything anymore, when the world is so painful for so many.  For those who are silently struggling with your own trauma, know that your feelings are valid. Name it. Claim it. It is not small because it is not the trauma of others.
+
+No matter what else is appearing on news headlines or in your life, your trauma is valid. Celebrate the positive aspects of your life but allow yourself space to acknowledge the negatives too. You are not alone, but your experience is important. You matter.
+
+Next week will be our last FAQ Friday. Thank you for joining in community with us.
 
 ---
 
@@ -11532,25 +11631,23 @@ The Anonymous Psychiatrist
 
 ---
 
-**Link:** [View on Our Wave](https://community.ourwave.org/answer/so-how-do-you-heal-from-trauma-16)
+**Link:** [View on Our Wave](https://community.ourwave.org/answer/how-do-i-know-whether-i-have-trauma-14)
 
-**Question:** So how do you heal from trauma?
+**Question:** How do I know whether I have trauma?
 
-**Answer:** While there is no simple answer to this question, here is a summary of what we discussed this week that may help.
+**Answer:** Trauma can impact individuals of all identities. It knows no boundaries and can affect anyone who has experienced extreme stress or adversity. How you label your experience is up to you, but below is some more information about what trauma can look like.
 
-First, safety and security is an important foundation to trauma recovery. If you are able, separate yourself from locations or people that trigger painful memories or perpetuate abuse. Establish a safe and nurturing environment to provide a strong foundation and minimize harm that can occur when you do not have a safe place to heal.
+According to the Substance Abuse and Mental Health Services Administration (SAMHSA) trauma results from an event, series of events, or set of circumstances that is 1) experienced as physically or emotionally harmful or life threatening and 2) has lasting adverse effects on functioning and mental, physical, social, emotional, or spiritual well being.
 
-Next, build your support network. This can be people in your personal life, trusted professionals, or a community of survivors. Processing trauma can be challenging at times, and is important to have people to fall back on to encourage you to keep going even when things get tough.
+Trauma can be experienced at the individual level or at the community level due to one time events or ongoing, relentless exposure to stress. Trauma can also be multigenerational in nature due to historical oppression, structural violence, or exploitation.
 
-When you feel ready to tell your story, it may be time to disclose and process your traumatic experience. We suggest doing this with a trained professional, but you can also seek out educational materials on your own, engage in journaling or other self-reflection activities, or share your experience with a trusted friend or family member.
+As mentioned above, trauma is not determined by specific events, but rather how we experience these events and how lasting the effects are. Trauma reactions vary by person. Everyone has different thresholds for stress in their lives and has differing reactions and needs as a result.
 
-With the help of these modalities, challenge your negative internal dialogue that may be telling you that you are to blame or that perpetuates feelings of shame related to your experience. Recognize that violence is systemic and no matter what event occured, it is never your fault.
+People can respond to trauma in many ways. Some emotional responses you may experience include numbness, mood swings, anxiety, fear, guilt, shame, withdrawing from others, feeling sad or hopeless and even self-blame. Trauma can also manifest as physical symptoms such as insomnia, fatigue, difficulty concentrating, racing heartbeat, and being startled easy.
 
-If you experience challenging negative thoughts or symptoms, experiment with self-soothing and coping strategies to find what works for you. Learning to manage your emotions or symptoms can help you feel like you have more control over your life and future.
+Remember, just because you are experiencing symptoms now, does not mean they will last forever. Typically, symptoms get better with time, although it is common for triggering events to occasionally resurface some of our traumatic feelings. If the intensity of these feelings interferes with your ability to do daily tasks, consider consulting a healthcare professional.
 
-Finally, look inwards with curiosity to reconnect to your true self as you find things that make you feel capable, hopeful, and powerful. While your trauma may always be a part of you, as you find more things that hold meaning to you, it will slowly become less central.
-
-Healing is an active process. It may be painful at points and you may have setbacks, but it is possible. Set goals for yourself, acknowledge small victories, and let people in. You deserve so much more than what you have experienced. Thank you for engaging in our healing week with us. We are here for you always.
+Your responses to trauma are normal reactions to abnormal events. Resist the urge to be hard on yourself or compare your experiences to others. Remember that all experiences are valid and it is important to seek help if you need it regardless of the circumstances. You do not need to go through this alone.
 
 ---
 
@@ -11572,23 +11669,25 @@ Finally, know that you never have to share your trauma if you do not want to. No
 
 ---
 
-**Link:** [View on Our Wave](https://community.ourwave.org/answer/how-do-i-know-whether-i-have-trauma-14)
+**Link:** [View on Our Wave](https://community.ourwave.org/answer/so-how-do-you-heal-from-trauma-16)
 
-**Question:** How do I know whether I have trauma?
+**Question:** So how do you heal from trauma?
 
-**Answer:** Trauma can impact individuals of all identities. It knows no boundaries and can affect anyone who has experienced extreme stress or adversity. How you label your experience is up to you, but below is some more information about what trauma can look like.
+**Answer:** While there is no simple answer to this question, here is a summary of what we discussed this week that may help.
 
-According to the Substance Abuse and Mental Health Services Administration (SAMHSA) trauma results from an event, series of events, or set of circumstances that is 1) experienced as physically or emotionally harmful or life threatening and 2) has lasting adverse effects on functioning and mental, physical, social, emotional, or spiritual well being.
+First, safety and security is an important foundation to trauma recovery. If you are able, separate yourself from locations or people that trigger painful memories or perpetuate abuse. Establish a safe and nurturing environment to provide a strong foundation and minimize harm that can occur when you do not have a safe place to heal.
 
-Trauma can be experienced at the individual level or at the community level due to one time events or ongoing, relentless exposure to stress. Trauma can also be multigenerational in nature due to historical oppression, structural violence, or exploitation.
+Next, build your support network. This can be people in your personal life, trusted professionals, or a community of survivors. Processing trauma can be challenging at times, and is important to have people to fall back on to encourage you to keep going even when things get tough.
 
-As mentioned above, trauma is not determined by specific events, but rather how we experience these events and how lasting the effects are. Trauma reactions vary by person. Everyone has different thresholds for stress in their lives and has differing reactions and needs as a result.
+When you feel ready to tell your story, it may be time to disclose and process your traumatic experience. We suggest doing this with a trained professional, but you can also seek out educational materials on your own, engage in journaling or other self-reflection activities, or share your experience with a trusted friend or family member.
 
-People can respond to trauma in many ways. Some emotional responses you may experience include numbness, mood swings, anxiety, fear, guilt, shame, withdrawing from others, feeling sad or hopeless and even self-blame. Trauma can also manifest as physical symptoms such as insomnia, fatigue, difficulty concentrating, racing heartbeat, and being startled easy.
+With the help of these modalities, challenge your negative internal dialogue that may be telling you that you are to blame or that perpetuates feelings of shame related to your experience. Recognize that violence is systemic and no matter what event occured, it is never your fault.
 
-Remember, just because you are experiencing symptoms now, does not mean they will last forever. Typically, symptoms get better with time, although it is common for triggering events to occasionally resurface some of our traumatic feelings. If the intensity of these feelings interferes with your ability to do daily tasks, consider consulting a healthcare professional.
+If you experience challenging negative thoughts or symptoms, experiment with self-soothing and coping strategies to find what works for you. Learning to manage your emotions or symptoms can help you feel like you have more control over your life and future.
 
-Your responses to trauma are normal reactions to abnormal events. Resist the urge to be hard on yourself or compare your experiences to others. Remember that all experiences are valid and it is important to seek help if you need it regardless of the circumstances. You do not need to go through this alone.
+Finally, look inwards with curiosity to reconnect to your true self as you find things that make you feel capable, hopeful, and powerful. While your trauma may always be a part of you, as you find more things that hold meaning to you, it will slowly become less central.
+
+Healing is an active process. It may be painful at points and you may have setbacks, but it is possible. Set goals for yourself, acknowledge small victories, and let people in. You deserve so much more than what you have experienced. Thank you for engaging in our healing week with us. We are here for you always.
 
 ---
 
