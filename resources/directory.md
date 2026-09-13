@@ -1,6 +1,6 @@
 # Our Wave — Resources for Survivors
 
-**Last Updated:** 2026-09-06<br>
+**Last Updated:** 2026-09-13<br>
 **Full Directory:** [community.ourwave.org/resources](https://community.ourwave.org/resources)<br>
 **Total Resources:** 101
 

@@ -1,7 +1,7 @@
 # Our Wave Community — Platform Overview
 
 **Website:** [community.ourwave.org](https://community.ourwave.org)<br>
-**Last Updated:** 2026-09-06
+**Last Updated:** 2026-09-13
 
 ## Name
 
@@ -26,9 +26,9 @@ To create a compassionate, interactive community and digital space where survivo
 
 ## Highlights
 
-- 562,362+ community users; 1,907+ stories; 1,791+ messages of hope; 838+ expert answers; 269,142+ resource referrals
+- 564,595+ community users; 1,916+ stories; 1,797+ messages of hope; 838+ expert answers; 331,227+ resource referrals
 - Community users across 51 U.S. states and 80 countries
-- More than 1,127,187 content views
+- More than 1,131,000 content views
 - Story submissions undergo sensitive review for anonymity, redaction, and trigger-warning application
 - Platform guided by core values of being survivor-centered, protecting privacy and anonymity, and following trauma-informed principles
 - Ensures anonymity, secure moderation, and trauma-informed design
