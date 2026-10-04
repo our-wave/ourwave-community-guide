@@ -1,8 +1,8 @@
 # Our Wave — Expert Q&A Collection
 
-**Last Updated:** 2026-09-27<br>
+**Last Updated:** 2026-10-04<br>
 **Full Archive:** [community.ourwave.org/learn](https://community.ourwave.org/learn)<br>
-**Total Q&As:** 842
+**Total Q&As:** 845
 
 ## About This Collection
 
@@ -11,6 +11,46 @@ These questions were submitted by survivors of sexual harm, child abuse, and dom
 ---
 
 ## Questions & Answers
+
+**Link:** [View on Our Wave](https://community.ourwave.org/answer/after-experiencing-sexual-abuse-in-a-relationship-as-a-teenager-i-became-hypersexual-years-later-i-now-struggle-to-enjoy-sex-or-stay-present-even-with-a-long-term-partner-who-respects-my-boundaries-an-968)
+
+**Question:** When I was a teenager, I was sexually abused in a relationship, and afterward I became hypersexual. Now, years later, I struggle to enjoy sex or stay present, even with a long-term partner who respects my boundaries and makes me feel safe and comfortable. Is it normal for trauma responses to change like this over time? How can I learn to enjoy sex again without past feelings taking over?
+
+**Answer:** <p>Thank you so much for reaching out and trusting us with something so personal. Wanting to feel present and connected with someone you love is such an understandable hope, and the changes you are noticing make a lot of sense given what you went through. Many survivors find their responses to sex shifting across the years in exactly this way, and you are not alone in it.</p>
+<p>After sexual abuse, some survivors find themselves seeking out sex more often than they did before, sometimes without feeling fully in control of that choice. Clinicians understand <a href="https://www.charliehealth.com/post/is-hypersexuality-a-trauma-response">hypersexuality</a> after trauma as an attempt to take back control over something that was taken from you, a way to feel something when the rest of you feels numb, or a way of proving to yourself that sex cannot hurt you anymore. Other survivors move away from sex entirely, and many experience both at different points in their lives. Both patterns come from a nervous system doing its best to manage something overwhelming.</p>
+<p>The shift you are noticing now, with a partner who makes you feel safe, is something clinicians see often. When life finally feels stable, the body has room to feel what it had to set aside in order to get through.</p>
+<p>Part of what makes this so frustrating is that the body does not track time the way the mind does. Trauma is often held as physical sensations and body states, sometimes called somatic memory. Certain cues, such as a kind of touch, a position, or the feeling of being wanted, can bring those old states back before you consciously register why. In those moments, the mind may step back from the body, a response called <a href="https://oldvineyardbhs.com/blog/understanding-dissociation-as-a-trauma-response/">dissociation</a>, which can feel like drifting away, going numb, or watching from a distance. Your body is reacting to what it learned, not necessarily to your partner themselves. Nervous systems tend to change, however, through repeated experiences of safety.</p>
+<p>One approach many survivors find helpful is <a href="https://health.cornell.edu/sites/health/files/pdf-library/sensate-focus.pdf">sensate focus</a>, a set of structured touch exercises developed by the sex researchers Masters and Johnson. You and your partner take turns touching with the only goal being to notice sensation, often with intercourse off the table at first. If you notice yourself drifting, you can slow down and bring your attention to something physically real, like the weight of your body or the sound of your breathing, to help your nervous system register where and when you actually are. Agreeing ahead of time on a simple signal that means "let's pause" can make slowing down an ordinary part of being together rather than something you have to explain in the moment. Over time, your body collects repeated experiences of touch that stays in your control, and new associations form from there. Some couples try it on their own, and others work with a trauma-informed sex therapist who can guide the pacing.</p>
+<p>Your body learned to protect you at a time when it needed to, and it can learn safety now, too, at whatever pace feels right for you. A partner who respects your boundaries gives you something real to build on. Pleasure that returns slowly, on your terms, tends to be the kind that lasts, and you are allowed to take all the time you need getting there. Thank you for reaching out to us.</p>
+
+---
+
+**Link:** [View on Our Wave](https://community.ourwave.org/answer/about-14-years-ago-i-fell-asleep-and-without-my-consent-my-dads-son-came-in-and-when-i-woke-up-he-had-his-private-parts-between-my-legs-when-i-fell-asleep-he-would-put-his-hand-on-my-butt-i-live-with-965)
+
+**Question:** About 14 years ago, I fell asleep and woke up to my dad's son with his private parts between my legs. I never gave consent. There were also times when I fell asleep and he would put his hand on my butt. I live with him 24/7, and I feel like I can't tell anyone. I need help.
+
+**Answer:** <p>Fourteen years is a long time to carry something alone, and living under the same roof as the person who did it must be so hard.</p>
+<p>You were asleep. A sleeping person cannot give consent, so nothing about what happened depended on anything you did or didn't do. Survivors of harm that happens during sleep often find themselves combing back through the memory, wondering if they missed a sign or should have woken sooner. None of those questions change where the responsibility sits. It sits with him.</p>
+<p>The feeling that you can't tell anyone makes a lot of sense given where you are. When the person who caused harm is family, telling can feel like it will break something. For example, your relationship with your dad, the peace of the household, the version of the family everyone else believes in. Many survivors describe staying quiet to protect the people around them, or because they fear they won't be believed, or because they have to keep sharing a kitchen and a hallway with him no matter what happens next. Silence in a situation like yours is a survival strategy. It has kept you functioning.</p>
+<p>Living with him around the clock also asks a lot of your body. Clinicians use the word <a href="https://health.clevelandclinic.org/hypervigilance">hypervigilance</a> to describe a nervous system that stays on alert, scanning for danger even when nothing is happening in the moment. You might notice it as trouble sleeping, tension when you hear him in the next room, or exhaustion that doesn't match how much you've actually done. None of it means you are overreacting. Your body is responding to a real history in a space where you can't fully relax.</p>
+<p>If any of what you described is still happening, including him touching you while you sleep, your safety right now matters most. A lock on your bedroom door, keeping your phone close at night, or staying somewhere else on nights you feel uneasy are all reasonable choices, and you don't owe anyone an explanation for them. If you're ever in immediate danger, you can call 911.</p>
+<p>You don't have to decide today whether to tell your family, and you don't have to tell anyone face to face. I noticed your message came from Mexico, so I want to share some options that are available there. Since you live with him, a good first step is one you can take quietly. The Consejo Ciudadano's Chat de Confianza is on WhatsApp at 55 5533 5533, 24 hours a day, every day. It's free, and they can offer emotional support and legal guidance by text, so no one in the house has to hear you. If you'd rather talk by phone, Mexico's national L&iacute;nea de las Mujeres is free anywhere in the country. Call 079 and choose option 1. You might call when you're out of the house or know you won't be overheard. You can share exactly what you wrote here and let someone trained help you think through what comes next, at your pace.</p>
+<p>You reached out once already by writing this. You can do it again. Thank you for trusting us with this.&nbsp;</p>
+
+---
+
+**Link:** [View on Our Wave](https://community.ourwave.org/answer/can-i-write-a-poam-966)
+
+**Question:** Can I write a poem instead of a story on the platform?
+
+**Answer:** <p>Thank you for reaching out, and yes, absolutely, you can.</p>
+<p>After harm, it's common to feel unsure about what space you're allowed to take up. This space is yours, and you don't need permission to use it in whatever way is most helpful for your healing.</p>
+<p>Poetry is one of the oldest ways people have made sense of pain. Overwhelming experiences can be hard to put into words. They often live in the body more than in sentences. Poetry makes room for that. It doesn't demand logic or a clear beginning and end. It holds fragments, images, and feelings that don't need to be explained. Many survivors find it reaches something a journal entry or conversation can't.</p>
+<p>You don't need to write well or clearly, or make sense to anyone, even yourself. Your poem can be messy, dark, hopeful, contradictory, or unfinished. You can write around the edges of something painful or straight into it. The point isn't the finished product. The point is giving what's inside you somewhere to go.</p>
+<p>If you'd like to share what you write here on Our Wave, we'd be honored to read it. Someone else might recognize their own experience in your words, and that sense of not being alone is part of how healing moves through a community. You can also keep it entirely private. A poem that's just for you is just as whole.</p>
+<p>We're here, and we're listening. Thank you for being here.&nbsp;</p>
+
+---
 
 **Link:** [View on Our Wave](https://community.ourwave.org/answer/i-had-sex-with-my-girlfriend-of-the-same-age-when-i-was-around-11-or-12-and-another-friend-was-also-there-in-the-room-watching-she-was-the-one-to-initially-suggest-we-have-sex-this-mutual-friend-also-964)
 
