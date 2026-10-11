@@ -1,8 +1,8 @@
 # Our Wave — Expert Q&A Collection
 
-**Last Updated:** 2026-10-04<br>
+**Last Updated:** 2026-10-11<br>
 **Full Archive:** [community.ourwave.org/learn](https://community.ourwave.org/learn)<br>
-**Total Q&As:** 845
+**Total Q&As:** 846
 
 ## About This Collection
 
@@ -11,6 +11,25 @@ These questions were submitted by survivors of sexual harm, child abuse, and dom
 ---
 
 ## Questions & Answers
+
+**Link:** [View on Our Wave](https://community.ourwave.org/answer/im-beginning-to-think-i-was-raped-as-a-teenager-and-that-i-suppressed-it-or-convinced-myself-it-was-consensual-i-had-a-friend-on-whom-i-had-a-crush-throughout-high-school-we-would-occasionally-make-ou-969)
+
+**Question:** I'm starting to think I was raped as a teenager and that I either suppressed it or convinced myself it was consensual. 
+
+When I was 15, I was fooling around with a friend I'd had a crush on all through high school. We had mutual friends, and I wanted to believe we might be together one day. He wanted to dry hump and I said okay. He took off my underwear, and then while we were making out I felt him penetrating me. I know I said stop, but probably not loudly. 
+
+It hurt because I was a virgin. I think I knew what was happening but also convinced myself it wasn't, partly because of my own self-loathing and not believing anyone would want to have sex with me. Afterward I saw blood and told him what he had done. He acted surprised. I don't remember an apology. When I got home I wondered if I should tell my parents or go to the police, but I was too upset and ashamed. 
+
+For more than 20 years I've told myself and others that it was consensual. I think I even told friends that at the time to protect him. I just didn't want to deal with it or believe it. But I know that's not how I wanted to lose my virginity, and he never once asked. He changed the parameters on his own. It wasn't violent. I asked him to stop, but I didn't fight it or keep asking. I may have been a little paralyzed. I'm in a healthy marriage now and don't want to do anything about it, but the Cornell Jane Doe story has me questioning how I've processed it. I think I just need someone objective to help me figure out what to make of this.
+
+**Answer:** <p>Thank you for trusting us with this. Writing it out after more than twenty years of telling a different story takes courage, and coming back to it now, with more distance and more language than you had at 15, is a totally normal way to make sense of hard experiences.</p>
+<p>Let's look at what you described. You agreed to one thing. He moved on to something else without asking, without pausing, without checking in, and when you said stop, he kept going. <a href="https://rainn.org/share-the-facts/consent-101-respect-boundaries-and-building-trust/">Consent</a> has to be present for each act, so agreeing to dry humping or making out does not carry over to penetration. Saying stop quietly still counts as saying stop. You did not agree to penetration. It sounds like he made that decision for you and it was never his to make. Penetration a person did not agree to, which continues after they ask to stop, fits how most legal and clinical definitions describe rape. You do not have to use that word. Some survivors find it clarifying, some find it doesn't fit, and many land somewhere in between. Only you get to decide what language belongs in your story.</p>
+<p>The paralysis you mentioned, where you knew what was happening and also could not quite let yourself believe it, matters. It sounds like it could have been something clinicians call <a href="https://mcasa.org/newsletters/article/trauma-and-the-brain-understanding-tonic-immobility">tonic immobility</a>, a freeze response the nervous system sets off automatically when it senses threat and fighting or fleeing doesn't feel possible. It is a well-documented response to an overwhelming situation, and it is especially common when the person causing harm is someone you know and trust. When you didn't fight or keep asking him to stop, you weren't agreeing. Your body was protecting you.</p>
+<p>Telling yourself and others that it was consensual also makes a lot of sense. At 15 you had a crush on him, you shared friends, and you already believed "no one would want you." Calling it consensual let you keep the friendship, the hope, and your social world intact. Researchers have a term for experiences like yours, unacknowledged rape, and it is remarkably common. Around 60 percent of women whose experiences fit legal definitions of rape do not call it that, especially when the other person was a friend or partner and there was no violence. Many people spend years, sometimes decades, telling a softened version of a story before they are ready to look at the one they know. I hope you can look back at the 15-year-old who did that with some tenderness.</p>
+<p>I am so sorry that the Cornell Jane Doe story cracked this open for you but it makes complete sense. Someone else's account can give you language and permission you didn't have at 15. Being able to look at it now may also be a sign of how much safer and steadier your life feels. Looking doesn't take anything away from your marriage, and you have no obligation to do anything more with what you find than name it to yourself, at your own pace.</p>
+<p>If you want somewhere to start, write down what happened in the plainest words you can, the way you did here. Then add one more line: what you wish someone had said to 15-year-old you afterward. Read it back in a few days, gently, and notice what feels true. You protected him for twenty years. You deserve that same protection now, and you don't have to keep protecting the story. Thank you for trusting us with this. You are not alone.</p>
+
+---
 
 **Link:** [View on Our Wave](https://community.ourwave.org/answer/after-experiencing-sexual-abuse-in-a-relationship-as-a-teenager-i-became-hypersexual-years-later-i-now-struggle-to-enjoy-sex-or-stay-present-even-with-a-long-term-partner-who-respects-my-boundaries-an-968)
 

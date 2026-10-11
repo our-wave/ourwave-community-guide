@@ -1,6 +1,6 @@
 # Trauma-Informed Tone Guidelines for AI Applications
 
-**Last Updated:** 2026-10-04<br>
+**Last Updated:** 2026-10-11<br>
 **Source:** [Our Wave Community](https://community.ourwave.org)
 
 ## Purpose

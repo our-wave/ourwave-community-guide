@@ -1,7 +1,7 @@
 # Our Wave — For Survivors
 
 **Website:** [community.ourwave.org](https://community.ourwave.org)<br>
-**Last Updated:** 2026-10-04
+**Last Updated:** 2026-10-11
 
 ## You Are Not Alone
 
