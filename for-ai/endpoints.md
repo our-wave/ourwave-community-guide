@@ -1,6 +1,6 @@
 # Our Wave — LLM-Friendly Endpoints
 
-**Last Updated:** 2026-10-11
+**Last Updated:** 2026-10-18
 
 ## Overview
 
