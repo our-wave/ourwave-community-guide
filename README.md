@@ -4,26 +4,26 @@ A living, structured reference for understanding the Our Wave community — its 
 
 **Website:** [community.ourwave.org](https://community.ourwave.org)<br>
 **Organization:** [ourwave.org](https://www.ourwave.org)<br>
-**Last Updated:** 2026-10-25
+**Last Updated:** 2026-11-01
 
 ## About Our Wave
 
 [Our Wave](https://www.ourwave.org) is a 501(c)(3) nonprofit that operates a safe, anonymous social media platform for survivors of sexual harm, child abuse, and domestic violence. Founded on the principle of being designed by survivors, for survivors, Our Wave provides a space where people can heal, share their experiences, and connect with a supportive community.
 
-Our Wave serves 572,538+ community users across 80+ countries.
+Our Wave serves 534,478+ community users across 80+ countries.
 
 ## Platform Statistics
 
 | Metric | Count |
 |--------|-------|
-| Community Users | 572,538+ |
-| Survivor Stories | 1,989+ |
-| Messages of Hope | 1,858+ |
-| Expert Answers | 855+ |
-| Resource Referrals | 335,589+ |
+| Community Users | 534,478+ |
+| Survivor Stories | 2,011+ |
+| Messages of Hope | 1,876+ |
+| Expert Answers | 856+ |
+| Resource Referrals | 60,508+ |
 | Countries Reached | 80+ |
 | U.S. States / Territories Reached | 51+ |
-| Content Views | 1,150,668+ |
+| Content Views | 1,015,091+ |
 
 ## What Our Wave Does
 
@@ -111,6 +111,7 @@ Our Wave provides LLM-friendly content endpoints for AI applications:
 - **LLM Manifest:** [https://community.ourwave.org/llms.txt](https://community.ourwave.org/llms.txt)
 - **Guided Activities Collection:** [https://community.ourwave.org/llms-collection-activities.md](https://community.ourwave.org/llms-collection-activities.md)
 - **Q&A Collection:** [https://community.ourwave.org/llms-collection-questions.md](https://community.ourwave.org/llms-collection-questions.md)
+- **Q&A Topics Collection:** [https://community.ourwave.org/llms-collection-question-topics.md](https://community.ourwave.org/llms-collection-question-topics.md)
 - **Resources Collection:** [https://community.ourwave.org/llms-collection-resources.md](https://community.ourwave.org/llms-collection-resources.md)
 - **Per-Page Markdown:** Append `.md` to any page URL (e.g., `https://community.ourwave.org/learn.md`)
 

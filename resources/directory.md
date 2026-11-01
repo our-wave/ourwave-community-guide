@@ -1,8 +1,8 @@
 # Our Wave — Resources for Survivors
 
-**Last Updated:** 2026-10-25<br>
+**Last Updated:** 2026-11-01<br>
 **Full Directory:** [community.ourwave.org/resources](https://community.ourwave.org/resources)<br>
-**Total Resources:** 101
+**Total Resources:** 103
 
 ## About These Resources
 
@@ -947,6 +947,23 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Link:** [View on Our Wave](https://community.ourwave.org/resource/aimee-says)<br>
 **Description:** Aimee Says is an AI-powered support assistant designed for survivors of domestic, post-separation, narcissistic, and emotional abuse, offering confidential chat, evidence documentation, and legal-prep tools. It helps users recognize abuse patterns, document incidents, create safety plans, and prepare for legal proceedings—available 24/7 with no registration required.<br>
 **Virtual Services:** Yes<br>
+
+---
+
+### Sibling Sexual Trauma
+
+**Link:** [View on Our Wave](https://community.ourwave.org/resource/sibling-sexual-trauma)<br>
+**Description:** If you or anyone in your family has been affected by sibling sexual trauma or abuse (SSTA), siblingsexualtrauma.com is a comprehensive source of information, written jointly by a parent and a survivor of SSTA. It includes pages covering over 70 topics, relevant to those who have been harmed, those who have caused harm, those who are parents of either or both, other family members, and professionals.<br>
+**Virtual Services:** Yes<br>
+
+---
+
+### 5WAVES
+
+**Link:** [View on Our Wave](https://community.ourwave.org/resource/5waves)<br>
+**Description:** 5WAVES.org is a lived-experience-led nonprofit, providing Worldwide Awareness, Voice, Education, and Support (WAVES) around sibling sexual trauma and abuse. Our site includes links to online peer support opportunities, a blog featuring voices of lived experience, links to reliable information about SSTA, current opportunities to participate in research, and more.<br>
+**Virtual Services:** Yes<br>
+**Countries Served:** United States<br>
 
 ---
 

@@ -1,6 +1,6 @@
 # Our Wave — LLM-Friendly Endpoints
 
-**Last Updated:** 2026-10-25
+**Last Updated:** 2026-11-01
 
 ## Overview
 
@@ -22,6 +22,7 @@ The manifest provides a comprehensive overview of the platform, including descri
 |------------|-----|-------------|
 | Guided Activities | [https://community.ourwave.org/llms-collection-activities.md](https://community.ourwave.org/llms-collection-activities.md) | Free, self-paced healing activities written with clinicians |
 | Expert Q&A | [https://community.ourwave.org/llms-collection-questions.md](https://community.ourwave.org/llms-collection-questions.md) | Survivor questions with expert answers |
+| Expert Q&A Topics | [https://community.ourwave.org/llms-collection-question-topics.md](https://community.ourwave.org/llms-collection-question-topics.md) | The expert Q&A grouped by topic, with links to each topic page |
 | Resources | [https://community.ourwave.org/llms-collection-resources.md](https://community.ourwave.org/llms-collection-resources.md) | Curated survivor support resources |
 
 ### Per-Page Markdown

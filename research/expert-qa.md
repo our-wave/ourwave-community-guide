@@ -1,8 +1,8 @@
 # Our Wave — Expert Q&A Collection
 
-**Last Updated:** 2026-10-25<br>
+**Last Updated:** 2026-11-01<br>
 **Full Archive:** [community.ourwave.org/learn](https://community.ourwave.org/learn)<br>
-**Total Q&As:** 855
+**Total Q&As:** 856
 
 ## About This Collection
 
@@ -11,6 +11,20 @@ These questions were submitted by survivors of sexual harm, child abuse, and dom
 ---
 
 ## Questions & Answers
+
+**Link:** [View on Our Wave](https://community.ourwave.org/answer/i-need-help-i-was-blackout-drunk-last-week-and-invited-a-guy-from-online-to-my-house-i-dont-remember-why-i-did-that-i-never-would-have-done-that-sober-i-never-give-out-my-address-i-remember-getting-in-981)
+
+**Question:** Last week I was blackout drunk and invited a guy I met online to my house. I don’t remember why I did that. I never would have done that sober, and I never give out my address. I remember getting in his car. He parked and wanted sex, and I told him I couldn’t. He said I should think about that, and he kept taking his pants off and pressuring me until I gave in. He knew I was drunk. I could barely walk, and I told him I was really drunk. It was over quickly and he drove me home. I feel so stupid, and I feel like I brought this on myself. I don’t know how to tell my husband. But my real question is, was this rape?
+
+**Answer:** <p>Thank you for trusting us with this. I am really glad you wrote in and I am sorry you have been carrying this for a week on your own.</p>
+<p>You asked whether this was rape. <a href="https://rainn.org/share-the-facts/consent-101-respect-boundaries-and-building-trust/">Consent</a>, in clinical practice and in most legal frameworks, rests on two things: 1) being willing, and 2) having the capacity to decide. Alcohol takes away the capacity part. When someone can barely walk and their brain is not forming memories, many laws and most clinical definitions treat them as unable to consent. You also told him no and he kept pushing until you gave in. Researchers call being pressured into sex after saying no <a href="https://www.loveisrespect.org/resources/what-is-sexual-coercion/">sexual coercion</a>. In your story, it sounds like you were too drunk to consent and were also pressured after saying no. Either of those on its own can mean consent was not there.</p>
+<p>Many people who have been through what you describe use the word rape. Some use sexual assault, and some take a long time to find any word at all. Definitions vary by where you live, but saying no, being pressured anyway, and being too drunk to stand is what many of them were written to cover. Which word fits is yours to decide, whenever you are ready.</p>
+<p>It may also help to understand what your body did in that car. When fighting or leaving does not feel possible, the nervous system often shifts toward getting through the moment with the least harm. Sometimes that looks like <a href="https://www.svri.org/the-freeze-response-how-a-warrior-handles-the-trauma-of-sexual-assault/">freezing</a>, and sometimes it looks like going along, which some people call fawning. Giving in under pressure, drunk and in his car, is often the body finding the safest way out. And you got home.</p>
+<p>You called yourself stupid and said you brought this on yourself. I hear that from survivors constantly when alcohol is involved. Drinking reliably makes survivors more likely to blame themselves, even though it changes nothing about who is responsible. Part of why self-blame grabs hold is that it offers a sense of control. If it was your fault, you could prevent it next time. A blackout means your brain was not recording and often not really steering, so choices made in that state are not ones you would stand behind. Inviting someone over did not give him permission for sex. He knew you were drunk because you told him. He heard your no. The only person in that car who could have stopped what happened was him.</p>
+<p>Telling your husband is its own weight, and the timing is yours to decide. You are allowed to get support for yourself first. The first reaction someone gets to a disclosure can shape how they heal, so it can help to choose a calm, private moment and tell him what you need before you tell him what happened.</p>
+<p>If it helps to have words ready, you could start with something like: "Something happened last week that I need to tell you about. I need you to hear me before you react. I was very drunk, and a man pressured me into sex after I said no." Change any of it. You do not have to have it figured out, or know what to call it, before you say it out loud. You are not stupid. You were harmed by someone who chose to keep going, and you deserve support while you work through it.</p>
+
+---
 
 **Link:** [View on Our Wave](https://community.ourwave.org/answer/i-had-a-belief-that-i-can-never-say-no-to-sex-and-i-didnt-realize-it-for-many-years-all-of-the-sex-from-that-time-feel-like-horrible-memories-i-want-to-avoid-were-they-all-assaults-eventually-i-did-ma-978)
 
