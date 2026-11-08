@@ -1,6 +1,6 @@
 # Our Wave — Resources for Survivors
 
-**Last Updated:** 2026-11-01<br>
+**Last Updated:** 2026-11-08<br>
 **Full Directory:** [community.ourwave.org/resources](https://community.ourwave.org/resources)<br>
 **Total Resources:** 103
 
@@ -125,7 +125,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Virtual Services:** Yes<br>
 **Countries Served:** Uruguay<br>
 **Phone:** *4141 (From a cell phone)<br>
-**Phone:** 08004141 (From a landline)<br>
+**Phone:** +5988004141 (From a landline)<br>
 
 ---
 
@@ -145,7 +145,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** Rape Crisis Ireland offers a range of services including emergency support, information on reporting assaults, ongoing support for survivors of sexual violence, and resources for supporters, along with training and research on sexual violence issues.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Ireland<br>
-**Phone:** +1800778888<br>
+**Phone:** +3531800778888<br>
 
 ---
 
@@ -165,7 +165,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** Our experience of more than 30 years supporting the development, empowerment, and leadership of women in our country demands that we make every effort to ensure that violence stops taking women's lives.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Bolivia<br>
-**Phone:** +800140348 (Toll-Free Central Line)<br>
+**Phone:** +591800102414 (Toll-Free Central Line)<br>
 
 ---
 
@@ -175,7 +175,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** 1800RESPECT is available for free, 24 hours a day, 7 days a week to support people impacted by domestic, family or sexual violence.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Australia<br>
-**Phone:** 1800737732<br>
+**Phone:** +611800737732<br>
 
 ---
 
@@ -194,7 +194,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** Offers a variety of services, including shelters for victims of violence, community dining halls to combat malnutrition, the COAI Comprehensive Care Center for domestic violence and abuse cases and child and family guidance centers.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Panama<br>
-**Phone:** 5006165<br>
+**Phone:** +5075006165<br>
 
 ---
 
@@ -204,7 +204,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** Provides services to restore the rights of children, adolescents, older adults, and families in vulnerable situations through programs focused on social welfare, special protection, family support, and adoption.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Nicaragua<br>
-**Phone:** 22224444<br>
+**Phone:** +50522224444<br>
 
 ---
 
@@ -214,7 +214,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** The campaign against gender violence emphasizes that violence against women is a crime that violates women's rights and encourages individuals to report it to authorities or seek support from social services, while stressing the collective responsibility to end gender-based violence and create a more just society.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Equatorial Guinea<br>
-**Phone:** +240222000000<br>
+**Phone:** +240333000000<br>
 
 ---
 
@@ -224,7 +224,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** The Comprehensive Care Center provides free psychological, legal, and social support services to women, girls, and adolescents affected by physical, psychological, or sexual violence, including guidance on sexual and reproductive rights, and works to help them break free from the cycle of violence.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Ecuador<br>
-**Phone:** +0991113526<br>
+**Phone:** +593991113526<br>
 
 ---
 
@@ -235,6 +235,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Virtual Services:** Yes<br>
 **Countries Served:** Dominican Republic<br>
 **Phone:** *212 (Dominican Republic Helpline)<br>
+**Phone:** +18092007212 (Direct line)<br>
 
 ---
 
@@ -244,7 +245,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** A free telephone line that operates 24 hours a day, every day of the year and is attended by a team of psychologists, social workers, lawyers and nurses.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Colombia<br>
-**Phone:** +018000112137<br>
+**Phone:** +5718000112137<br>
 
 ---
 
@@ -262,7 +263,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** Provides psychological, social, and legal support, shelters for women at risk, comprehensive care units, and national campaigns, all aimed at addressing violence against women and promoting their rights and well-being in Venezuela.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Venezuela<br>
-**Phone:** +08006853737<br>
+**Phone:** +588006853737<br>
 
 ---
 
@@ -272,7 +273,8 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** If you are a Salvadoran migrant or diaspora woman and have suffered physical, sexual, psychological, or other types of violence, we are here to support you.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** El Salvador<br>
-**Phone:** +503126<br>
+**Phone:** 126<br>
+**WhatsApp:** +50378549521<br>
 
 ---
 
@@ -292,7 +294,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** Free confidential contact with trained specialists in New Zealand. We can also connect you to support services in your community.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** New Zealand<br>
-**Phone:** +0800044334<br>
+**Phone:** +64800044334<br>
 **Text/SMS:** 4334<br>
 
 ---
@@ -303,7 +305,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** Telephone assistance is provided to women and their children experiencing gender-based violence, in any form or type, through the hotline. Crisis intervention, psychological support, and initial legal advice are provided.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Mexico<br>
-**Phone:** +8001084053<br>
+**Phone:** +528001084053<br>
 
 ---
 
@@ -343,7 +345,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** The Here I Am line is a free service for addressing  psychological and emotional emergencies such as anger, burnout, stress, anxiety, depression, domestic or partner violence, among others, as well as addressing suicidal ideation or risk of suicidal behavior.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Costa Rica<br>
-**Phone:** 8002737869<br>
+**Phone:** +5068002737869<br>
 
 ---
 
@@ -380,7 +382,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** Did something sexual happen to you without your consent? Or you're not sure? No matter when or where it happened, we are here for you – at any time of the day or night.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** United Kingdom<br>
-**Phone:** +08085002222<br>
+**Phone:** +448085002222<br>
 
 ---
 
@@ -432,7 +434,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** This is a telephone number and consultation service that allows children to more easily report bullying and other SOS issues at any time, from anywhere in the country.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Japan<br>
-**Phone:** +810120078310<br>
+**Phone:** +81120078310<br>
 
 ---
 
@@ -469,7 +471,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** The call will connect you to a public counseling service such as the "Mental Health Telephone Counseling" run by your prefecture or designated city.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Japan<br>
-**Phone:** +810570064556<br>
+**Phone:** +81570064556<br>
 
 ---
 
@@ -479,7 +481,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** This is a free and confidential telephone counseling service for people who feel like they want to die, disappear, are tired of living, or have reached their limit in life.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Japan<br>
-**Phone:** +810120061338<br>
+**Phone:** +81120061338<br>
 
 ---
 
@@ -498,7 +500,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** We will listen to any person's concerns and work together to find a solution. We also accept consultations via phone, fax, chat, and social media.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Japan<br>
-**Phone:** +810120279226<br>
+**Phone:** +81120279226<br>
 
 ---
 
@@ -508,7 +510,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** We will listen to any person's concerns and work together to find a solution. We also accept consultations via phone, fax, chat, and social media.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Japan<br>
-**Phone:** +810120279338<br>
+**Phone:** +81120279338<br>
 
 ---
 
@@ -575,7 +577,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** Counselors specializing in domestic violence issues are available by phone 24 hours a day, 365 days a year. Consultations are also available via chat, with chat available in 10 foreign languages.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Japan<br>
-**Phone:** +810120279889<br>
+**Phone:** +81120279889<br>
 
 ---
 
@@ -651,7 +653,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Virtual Services:** Yes<br>
 **Countries Served:** United States<br>
 **Phone:** +19072767273 (24/7/365 Support)<br>
-**Phone:** +8004788999 (Toll-Free Statewide)<br>
+**Phone:** +18004788999 (Toll-Free Statewide)<br>
 
 ---
 
@@ -702,7 +704,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** Childline is open every day and is for all children and young people in Ireland up to and including the age of 18. You can talk with Childline’s 24-hour Support Line in confidence, about anything that might be on your mind, and we won’t judge you, give out to you or tell you what to do.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Ireland<br>
-**Phone:** +1800666666<br>
+**Phone:** +3531800666666<br>
 
 ---
 
@@ -721,7 +723,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** Pieta provides 24/7, free and confidential support and information for everyone in Ireland who may be looking for support with suicide, self-harm and grief & loss.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Ireland<br>
-**Phone:** +1800247247<br>
+**Phone:** +3531800247247<br>
 
 ---
 
@@ -731,7 +733,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** Whatever you're going through, a Samaritan will face it with you. We're here 24 hours a day, 365 days a year.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Ireland<br>
-**Phone:** +116123<br>
+**Phone:** 116123<br>
 
 ---
 
@@ -741,7 +743,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** The National Male Advice Line (MAL) offers confidential phoneline advice and support to Male victims of domestic violence and abuse during specific hours, seven days a week, 365 days a year. It is a FREEPHONE service.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Ireland<br>
-**Phone:** +1800816588<br>
+**Phone:** +3531800816588<br>
 
 ---
 
@@ -758,7 +760,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Link:** [View on Our Wave](https://community.ourwave.org/resource/cari-careline)<br>
 **Description:** CARI (Children at Risk in Ireland) provides child-centred therapy for children & adolescents who have been affected by sexual abuse. CARI also provides therapy to children, up to 12 years of age, who present with sexually harmful behaviour.<br>
 **Countries Served:** Ireland<br>
-**Phone:** +0818924567<br>
+**Phone:** +353818924567<br>
 
 ---
 
@@ -768,7 +770,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** Provides confidential support services focused on addressing domestic violence and coercive control specifically for male victims, including non-binary, intersex, and transgender individuals, while also offering support and referrals for all victims regardless of gender.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Ireland<br>
-**Phone:** +015543811<br>
+**Phone:** +35315543811<br>
 
 ---
 
@@ -778,7 +780,7 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Description:** Women’s Aid is a national, feminist organisation working to prevent and address the impact of domestic violence and abuse. National Freephone Helpline - 24 hours a day, 7 days a week.<br>
 **Virtual Services:** Yes<br>
 **Countries Served:** Ireland<br>
-**Phone:** +1800341900<br>
+**Phone:** +3531800341900<br>
 
 ---
 
