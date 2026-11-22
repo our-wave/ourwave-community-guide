@@ -1,7 +1,7 @@
 # Our Wave — Expert Q&A Collection
 
-**Last Updated:** 2026-11-15<br>
-**Full Archive:** [community.ourwave.org/learn](https://community.ourwave.org/learn)<br>
+**Last Updated:** 2026-11-22<br>
+**Full Archive:** [community.ourwave.org/questions-answers](https://community.ourwave.org/questions-answers)<br>
 **Total Q&As:** 860
 
 ## About This Collection

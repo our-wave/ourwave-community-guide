@@ -1,8 +1,8 @@
 # Our Wave — Resources for Survivors
 
-**Last Updated:** 2026-11-15<br>
+**Last Updated:** 2026-11-22<br>
 **Full Directory:** [community.ourwave.org/resources](https://community.ourwave.org/resources)<br>
-**Total Resources:** 103
+**Total Resources:** 104
 
 ## About These Resources
 
@@ -931,6 +931,8 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Virtual Services:** Yes<br>
 **Countries Served:** United States, Puerto Rico<br>
 **Phone:** +18006564673 (National Sexual Assault Telephone Hotline for the United States)<br>
+**Text/SMS:** 64673 (Text HOPE to 64673)<br>
+**WhatsApp:** +12028349806<br>
 
 ---
 
@@ -957,6 +959,15 @@ These resources have been curated by Our Wave for survivors of sexual harm, chil
 **Link:** [View on Our Wave](https://community.ourwave.org/resource/sibling-sexual-trauma)<br>
 **Description:** If you or anyone in your family has been affected by sibling sexual trauma or abuse (SSTA), siblingsexualtrauma.com is a comprehensive source of information, written jointly by a parent and a survivor of SSTA. It includes pages covering over 70 topics, relevant to those who have been harmed, those who have caused harm, those who are parents of either or both, other family members, and professionals.<br>
 **Virtual Services:** Yes<br>
+
+---
+
+### RAINN
+
+**Link:** [View on Our Wave](https://community.ourwave.org/resource/rainn)<br>
+**Description:** RAINN (Rape, Abuse and Incest National Network) is the nation's largest anti-sexual violence organization, operating the National Sexual Assault Hotline to provide free, confidential, 24/7 support to survivors of sexual violence via phone, chat, and text. RAINN also works to educate communities, advocate for protective legislation, and hold perpetrators accountable.<br>
+**Virtual Services:** Yes<br>
+**Countries Served:** United States, Puerto Rico<br>
 
 ---
 

@@ -1,7 +1,7 @@
 # Our Wave — For Survivors
 
 **Website:** [community.ourwave.org](https://community.ourwave.org)<br>
-**Last Updated:** 2026-11-15
+**Last Updated:** 2026-11-22
 
 ## You Are Not Alone
 
@@ -31,7 +31,7 @@ Access a curated directory of vetted resources including crisis hotlines, therap
 
 Read questions from other survivors answered by trauma-informed experts. Topics cover recovery, coping, relationships, legal questions, and more.
 
-**Browse Q&A:** [community.ourwave.org/learn](https://community.ourwave.org/learn)
+**Browse Q&A:** [community.ourwave.org/questions-answers](https://community.ourwave.org/questions-answers)
 
 ### Send a Message of Hope
 

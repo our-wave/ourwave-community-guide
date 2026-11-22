@@ -1,6 +1,6 @@
 # Our Wave — LLM-Friendly Endpoints
 
-**Last Updated:** 2026-11-15
+**Last Updated:** 2026-11-22
 
 ## Overview
 
@@ -32,7 +32,7 @@ Any page on the platform can be accessed as markdown by appending `.md` to the U
 | Page | HTML URL | Markdown URL |
 |------|----------|-------------|
 | Home | https://community.ourwave.org | https://community.ourwave.org/index.md |
-| Learn (Q&A Hub) | https://community.ourwave.org/learn | https://community.ourwave.org/learn.md |
+| Learn (Q&A Hub) | https://community.ourwave.org/questions-answers | https://community.ourwave.org/questions-answers.md |
 | Resources | https://community.ourwave.org/resources | https://community.ourwave.org/resources.md |
 | Share a Story | https://community.ourwave.org/share | https://community.ourwave.org/share.md |
 | Individual Story | https://community.ourwave.org/story/{slug} | https://community.ourwave.org/story/{slug}.md |

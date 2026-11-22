@@ -4,27 +4,27 @@ A living, structured reference for understanding the Our Wave community — its 
 
 **Website:** [community.ourwave.org](https://community.ourwave.org)<br>
 **Organization:** [ourwave.org](https://www.ourwave.org)<br>
-**Last Updated:** 2026-11-15
+**Last Updated:** 2026-11-22
 
 ## About Our Wave
 
 [Our Wave](https://www.ourwave.org) is a 501(c)(3) nonprofit that operates a safe, anonymous social media platform for survivors of sexual harm, child abuse, and domestic violence. Founded on the principle of being designed by survivors, for survivors, Our Wave provides a space where people can heal, share their experiences, and connect with a supportive community.
 
-Our Wave serves 540,904+ community users across 188+ countries.
+Our Wave serves 543,864+ community users across 195+ countries.
 
 ## Platform Statistics
 
 | Metric | Count |
 |--------|-------|
-| Community Users | 540,904+ |
-| Survivor Stories | 2,027+ |
-| Messages of Hope | 1,894+ |
+| Community Users | 543,864+ |
+| Survivor Stories | 2,037+ |
+| Messages of Hope | 1,902+ |
 | Expert Answers | 860+ |
-| Resource Referrals | 61,231+ |
-| Countries Reached | 188+ |
+| Resource Referrals | 61,758+ |
+| Countries Reached | 195+ |
 | Countries Survivors Have Shared From | 93+ |
 | U.S. States / Territories Reached | 51+ |
-| Content Views | 1,026,842+ |
+| Content Views | 1,032,031+ |
 
 ## What Our Wave Does
 
@@ -43,7 +43,7 @@ Our Wave serves 540,904+ community users across 188+ countries.
 1. **Read Stories** — Browse anonymous survivor stories at [community.ourwave.org](https://community.ourwave.org) to find connection and validation.
 2. **Share Your Story** — Submit your experience anonymously through a secure, guided process at [community.ourwave.org/share](https://community.ourwave.org/share).
 3. **Send a Message of Hope** — Write an encouraging message for the community.
-4. **Explore Expert Q&A** — Find answers to common questions from trauma-informed professionals at [community.ourwave.org/learn](https://community.ourwave.org/learn).
+4. **Explore Expert Q&A** — Find answers to common questions from trauma-informed professionals at [community.ourwave.org/questions-answers](https://community.ourwave.org/questions-answers).
 5. **Find Resources** — Access curated support services, hotlines, and therapy options at [community.ourwave.org/resources](https://community.ourwave.org/resources).
 
 ### For Allies & Supporters
@@ -114,7 +114,7 @@ Our Wave provides LLM-friendly content endpoints for AI applications:
 - **Q&A Collection:** [https://community.ourwave.org/llms-collection-questions.md](https://community.ourwave.org/llms-collection-questions.md)
 - **Q&A Topics Collection:** [https://community.ourwave.org/llms-collection-question-topics.md](https://community.ourwave.org/llms-collection-question-topics.md)
 - **Resources Collection:** [https://community.ourwave.org/llms-collection-resources.md](https://community.ourwave.org/llms-collection-resources.md)
-- **Per-Page Markdown:** Append `.md` to any page URL (e.g., `https://community.ourwave.org/learn.md`)
+- **Per-Page Markdown:** Append `.md` to any page URL (e.g., `https://community.ourwave.org/questions-answers.md`)
 
 ## Purpose of This Repository
 
